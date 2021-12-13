@@ -1,7 +1,7 @@
 ---
 title: Cong Fan
 role: MD/MPH Student
-avatar_filename: ""
+avatar_filename: avatar.jpg
 bio: ""
 interests: []
 social:
