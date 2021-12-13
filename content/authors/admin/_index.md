@@ -16,7 +16,16 @@ organizations:
     url: ""
   - name: Case Western Reserve University
 education:
-  courses: []
+  courses:
+    - course: Doctor of Medicine
+      institution: Cleveland Clinic Lerner College of Medicine
+      year: ""
+    - course: Masters of Public Health
+      institution: "Case Western Reserve University "
+      year: ""
+    - institution: "Cornell University "
+      course: BA in Biological Science and Anthropology
+      year: ""
 email: ""
 superuser: true
 highlight_name: true
